@@ -47,6 +47,8 @@
 * [Android Studio](https://developer.android.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
+<p align="right">(<a href="#top">wróc do góry</a>)</p>
+
 ## App demo mobile Android
 
 <p align="center">
