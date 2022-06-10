@@ -37,7 +37,7 @@ const LoginView = () => {
   }
   else{
     Alert.alert(
-      "Hasła się nie zgadzają",
+      "Wprowadzono błędne dane",
       "Spróbuj jeszcze raz.",
       [
     
