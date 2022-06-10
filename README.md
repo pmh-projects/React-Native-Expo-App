@@ -18,10 +18,10 @@
       </ul>
     </li>
     <li>
-      <a href="#app-demo-web">App demo web</a>
+      <a href="#app-demo-mobile android">App demo mobile Android</a>
     </li>
     <li>
-      <a href="#app-demo-android">App demo Android</a>
+      <a href="#app-demo-web">App demo web</a>
     </li>
     <li>
       <a href="#baza-danych">Baza danych</a>
