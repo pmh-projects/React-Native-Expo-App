@@ -18,7 +18,7 @@
       </ul>
     </li>
     <li>
-      <a href="#app-demo-mobile android">App demo mobile Android</a>
+      <a href="#app-demo-mobile-android">App demo mobile Android</a>
     </li>
     <li>
       <a href="#app-demo-web">App demo web</a>
