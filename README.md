@@ -1,4 +1,4 @@
- # React Native - <i>Zarządca zadań</i> 
+ # React Native - <i>task tracker</i> 
 
 <p align="center">
 
@@ -32,10 +32,9 @@
  
  ## Opis
 
-  Jest to prosta aplikacja umożliwiająca dodawanie zadań do wykonania 
-  po zalogowaniu się zarejestrowanego użytkownika oraz
-  oznaczania ich jako "wykonane", a także ich usuwania.
-
+  Jest to prosta aplikacja umożliwiająca po zalogowaniu się zarejestrowanego użytkownika
+  dodawanie zadań do wykonania oraz oznaczania ich jako "wykonane", a także ich usuwania.
+  Testowana przy pomocy emulatora Pixel 5 API 30 na Android Studio.
 
 ### Architektura oprogramowania
 
@@ -45,10 +44,18 @@
 * [Android Studio](https://developer.android.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-## App Demo
+## App demo mobile Android
 
 <p align="center">
-  <img src="https://github.com/pmh-projects/ReactNativeFirebaseAppZal/blob/main/assets/rnzal.gif" alt="animated" />
+  <img src="https://github.com/pmh-projects/ern/blob/master/addfiles/reactnativeexpo2022_v02.gif" alt="animated" />
+</p>
+
+<p align="right">(<a href="#top">wróc do góry</a>)</p>
+
+## App demo web
+
+<p align="center">
+  <img src="https://github.com/pmh-projects/ern/blob/master/addfiles/reactnativeexpo2222.gif" alt="animated" />
 </p>
 
 <p align="right">(<a href="#top">wróc do góry</a>)</p>
@@ -58,12 +65,14 @@
 Konta użytkowników oraz zadania są zapisywane w bazie Firebase (Cloud Firestore):
   
 <p align="center">
-  <img src="https://github.com/pmh-projects/ReactNativeFirebaseAppZal/blob/main/assets/reactnative_1.jpg" alt="animated" />
+  <img src="https://github.com/pmh-projects/ern/blob/master/addfiles/fire.png" alt="animated" />
 </p><p align="center">
-  <img src="https://github.com/pmh-projects/ReactNativeFirebaseAppZal/blob/main/assets/reactnative_2.jpg" alt="animated" />
+  <img src="https://github.com/pmh-projects/ern/blob/master/addfiles/fire2.jpg" alt="animated" />
 </p>
 
 ## Start
+
+  Po pobraniu repo należy wykonać w komendy w terminalu w folderze głównym aplikacji:
 
   ```sh
   npm install
